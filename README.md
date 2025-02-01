@@ -38,5 +38,4 @@ This project demonstrates how to build an ELT (Extract, Load, Transform) data pi
    - BigQuery and Cloud Storage enabled.
    - Service account with required permissions.
 2. Apache Airflow installed.
-3. Use Blog for Airflow Installation on VM - https://www.techtrapture.com/blogs/673a2625dd155b000b7cdb3b
 
